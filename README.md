@@ -24,3 +24,24 @@ The objective of this lab is to use distance based concepts and clustering techn
 # Conclusion
 The lab successfully demonstrated the application of facial recognition using K-means algorithm technique and distance based learning. Features like Hue and saturation were helpful in grouping and were quite reliable. This proves why feature selection is a vital part of training models.
 
+
+## Results
+
+### Face Detection
+![Face Detection](results/output1.jpg)
+
+### Feature Extraction
+![Feature Extraction](results/output2.jpg)
+
+### Clustering
+![Clustering](results/output3.jpg)
+
+### Final Classification
+![Classification](results/output4.jpg)
+
+### Shashi tharoor
+![Shashi Tharoor output](results/shashi_tharoor_output.jpg)
+
+### Plaksha faculty
+![Faculty output](results/plaksha_faculty_output.jpg)
+
